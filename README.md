@@ -4,20 +4,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
 
 ### Screenshot
 
@@ -26,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/felixicity/qr-code-component-main.git)
+- Solution URL: [Add solution URL here](https://felixicity.github.io/qr-code-component-main/)
 
 
 ### Built with
@@ -36,13 +30,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
  I learnt alignment in great detail and how to publish easily on git.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/felixicity)
+- Frontend Mentor - [@felixicity](https://www.frontendmentor.io/profile/felixicity)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
